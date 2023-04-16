@@ -20,7 +20,6 @@ fn main() {
         num = result;
     }
     println!("{num}");
-    // println!("{}", reverse_number(BigUint::from(1234u32)));
 }
 
 /// Reverses the digits of a given number and returns the result.
